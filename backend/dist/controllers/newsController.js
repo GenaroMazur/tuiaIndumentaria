@@ -1,0 +1,57 @@
+"use strict";
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.newsDelete = exports.newsUpdate = exports.newsCreate = exports.newsDetail = exports.newsList = void 0;
+const newsList = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+    }
+    catch (error) {
+        console.error(error);
+        next(error);
+    }
+});
+exports.newsList = newsList;
+const newsDetail = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+    }
+    catch (error) {
+        console.error(error);
+        next(error);
+    }
+});
+exports.newsDetail = newsDetail;
+const newsCreate = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+    }
+    catch (error) {
+        console.error(error);
+        next(error);
+    }
+});
+exports.newsCreate = newsCreate;
+const newsUpdate = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+    }
+    catch (error) {
+        console.error(error);
+        next(error);
+    }
+});
+exports.newsUpdate = newsUpdate;
+const newsDelete = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+    try {
+    }
+    catch (error) {
+        console.error(error);
+        next(error);
+    }
+});
+exports.newsDelete = newsDelete;

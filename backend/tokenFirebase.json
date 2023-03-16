@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tuia-indumentaria",
+  "private_key_id": "b5f4893d70832a33d547da5a00b52d52f271ab5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJNyyvP/HTQQju\ntA2rjmQ6VqRHGb5upgX8B2rL/4X5XxbKFqcDxojABpyOmBa/6Cp2qHD2qfrRxp+k\n6oIvz1TAAGO9Y7ttnNJujmulWmR/CMYpit69AKX5QSAIiNKk/eHE2X3/+R2x0WMz\nF+NwKUDdzEjf8hHcEMpJg/l7lLdFBf07CBX9lTWnD0bGpK/OtgalQTMUilN9AFjk\nHgZTXUiwsMMAdqgeJvtOAZXdEuX3RUSl5sqUVHRdc+KfhxG4aFlH5jaukyIvBy5H\nYB9TDZsrsJH1Cm5c0fsMTB2WikxOyEjHvCZHN84FoCniNZIPb9oFoV3z25D2VESx\nkDlPHZopAgMBAAECggEABbgYgEuuPS2sShKaj91+ek0DotS3va/g3Cq+zZkP7whV\nnr1ZlmkicmjNstzeSqqX6GL9wPkQXL2LRJX4yNCZDVMFgrjOtz0dmxBXvW2uDRFM\nBprAnXki/oxsE2oGKLPhoqV26BtlzWvQ6L8dUw8NHbDEgn8AJHPiuAe1A970fZTy\n1RW/JRusgACxLgop93AzUXPo0KGOeR4B+MAURfDgZpd+LqTwJ072gIzqIIntELEy\nBSz+yzZbv3D0ZtxVE0rAuMvaV/5OkZlICxopoKAwM11AvCBNz36sDS3e7KOLtpiX\nGgGKPy54mTFvspi/yJQUiF4r7ezKbKVsFlW3oKaVYQKBgQDthTsf+DEShoWzz5jF\nmre5d4/cBfw6qZcJP/zQoy4wWRICXb+PNpxZ5GWz5OLb9sDuhraeGtqWffx2IZpZ\nmM7qHJfvib54m/jVmcq5oJGznztGeeUTdNEM6Yrwr4vPzJMglSSc7+tzj3ZZAYC5\nPVm9SEYFk1KICc4ek87sQPLHOQKBgQDY3tjrmKOmYk5iheS2NKhWXYWZov+Z0MS5\nmXjI1wWloDuXslTcm2N9GDE++4NXqzR+ecDTAzrcJfDdqFMLqh6I0+OleiegwegE\nlg32Kp/MQueOJtxjSGn9cgdaqmQaS2ZLvqY09k+CmnC+1dtPT1+oNIQWSzQFHm7A\n5az3Ypb6cQKBgQCX8Ra1iMu7khqNwEt2fVbyai25Dosf68UWwbw0q26stw3yPY6B\nSuoSBy2YOt903xDkhYDk+0DB7K5H048tqbcTxF7deTxDY2N3IP6yaKlMQpxkpS2J\nmLzyiaO7/FBwCepEeaQGUORJ9Ig8v91cooZ5s3Y3stqk88DLhrpkH9gu4QKBgQDM\ngsn40kZxHv9gNXeKw3mDiEn2qhlzicYaaDnY27x9he7sjMUuDHLzgp7eD/y57b9h\nDZvi4YbeGAFeZd96foCw83AXmmxIUtNjj8W2wFdVHjqSeN8X2S/qS1/YBhrEGRps\nj2rZQvWT6eQsciuQTP+d9XgiNeTmdt5mlbBY0eYiYQKBgFWk2k3UshqT+MyPkOSa\n7mS3UHXr1QPLqFbZricsjTWkLAmLkeGnOY9hTIKnbQBixx2vfuyuLyQLwbEB5CpQ\ntzkfDGgY7a/eInHQ81PL1yMxBi3O18xXY7gzuUtEjeaAKkLJ8FQn6vh1b3scmKlH\nyirqY8eTrE2MRStWwsXmZIni\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xezxr@tuia-indumentaria.iam.gserviceaccount.com",
+  "client_id": "108580714905482661303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xezxr%40tuia-indumentaria.iam.gserviceaccount.com"
+}
